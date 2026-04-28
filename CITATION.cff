@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the associated publication and the dataset."
+title: "Zoonotic endoparasites and Toxoplasma gondii seropositivity in free-roaming cats from New York City, USA — data and code"
+authors:
+  - family-names: Nguyen
+    given-names: Van-Lan
+  - family-names: Gurtowski
+    given-names: Emily
+  - family-names: Chen
+    given-names: Joyce
+  - family-names: Rosen
+    given-names: Maria
+  - family-names: Kafle
+    given-names: Pratap
+    orcid: "https://orcid.org/0000-0000-0000-0000"   # <-- replace with your real ORCID before publishing
+date-released: 2026-04-28
+license: CC-BY-4.0
+license-url: "https://creativecommons.org/licenses/by/4.0/"
+url: "https://github.com/YOUR-GITHUB-USERNAME/nyc-cat-parasites"
+preferred-citation:
+  type: article
+  title: "Zoonotic endoparasites and Toxoplasma gondii seropositivity in free-roaming cats (Felis catus) from New York City, USA"
+  authors:
+    - family-names: Nguyen
+      given-names: Van-Lan
+    - family-names: Gurtowski
+      given-names: Emily
+    - family-names: Chen
+      given-names: Joyce
+    - family-names: Rosen
+      given-names: Maria
+    - family-names: Kafle
+      given-names: Pratap
+  journal: "PLOS ONE"
+  year: 2026
