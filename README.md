@@ -4,7 +4,7 @@ This repository contains the de-identified data and analysis code accompanying:
 
 > Nguyen V-L, Gurtowski E, Chen J, Rosen M, Kafle P. *Zoonotic endoparasites and Toxoplasma gondii seropositivity in free-roaming cats (Felis catus) from New York City, USA*. PLOS ONE (in revision, 2026). Manuscript ID PONE-D-26-00846.
 
-Corresponding author: Pratap Kafle (kafle@rowan.edu), Schreiber School of Veterinary Medicine, Rowan University.
+Corresponding author: Pratap Kafle (kafle@rowan.edu), Shreiber School of Veterinary Medicine, Rowan University.
 
 ## Contents
 
